@@ -9,13 +9,13 @@ from telegram.ext import CommandHandler, MessageHandler, DispatcherHandlerStop, 
 from telegram.utils.helpers import escape_markdown
 
 from haruka import dispatcher, LOGGER
-from bot.modules.disable import DisableAbleCommandHandler
-from bot.modules.helper_funcs.chat_status import user_admin
-from bot.modules.helper_funcs.extraction import extract_text
-from bot.modules.helper_funcs.filters import CustomFilters
-from bot.modules.helper_funcs.misc import build_keyboard
-from bot.modules.helper_funcs.string_handling import split_quotes, button_markdown_parser
-from bot.modules.sql import cust_filters_sql as sql
+from haruka.modules.disable import DisableAbleCommandHandler
+from haruka.modules.helper_funcs.chat_status import user_admin
+from haruka.modules.helper_funcs.extraction import extract_text
+from haruka.modules.helper_funcs.filters import CustomFilters
+from haruka.modules.helper_funcs.misc import build_keyboard
+from haruka.modules.helper_funcs.string_handling import split_quotes, button_markdown_parser
+from haruka.modules.sql import cust_filters_sql as sql
 
 from bot.modules.connection import connected
 
