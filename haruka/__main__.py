@@ -23,14 +23,11 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, I'M {}!
 
-I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
 
-Deploy a bot like me [Now](www.github.com/IVETRI/SoulQueen)
+உங்கள் குழுக்களை நிர்வகிக்க உங்களுக்கு உதவ இங்கே இருக்கிறேன்!
 
-Watch A Video To Deploay A Bot Like Me. Click 👉🏻[HERE](https://youtu.be/reQQKqbd1-k)👈🏻
-
-Click /help or Help button below to find out more about how to use me to my full potential.
-"""
+எனது முழு திறனுக்கும் என்னை எவ்வாறு பயன்படுத்துவது என்பது பற்றி மேலும் அறிய கீழே உள்ள
+ 🚨/HELP🚨 Button யை அழுத்தவும்..."""
 
 
 IMPORTED = {}
@@ -148,11 +145,11 @@ def send_start(bot, update):
     text = PM_START
 
     keyboard = [[InlineKeyboardButton(text="🇮🇳 Language 🇮🇳", callback_data="set_lang_")]]
-    keyboard += [[InlineKeyboardButton(text="⚜ Reporting ⚜", callback_data="cntrl_panel_M"), 
-        InlineKeyboardButton(text="❓ Help ❓", callback_data="help_back")],
+    keyboard += [[InlineKeyboardButton(text="📢 Update Channel 📢", url="https://t.me/TN_Bots"), 
+        InlineKeyboardButton(text="🚨 Help 🚨", callback_data="help_back")],
                  [
         InlineKeyboardButton(
-            text="🤗 Add Me 🥳", url="http://t.me/SoulQueenBot?startgroup=true"
+            text="➕ Add Me To Your Group ➕", url="http://t.me/TN_TamilanBot?startgroup=true"
         ),
     ],
 ]
