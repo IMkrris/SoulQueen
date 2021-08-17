@@ -21,7 +21,7 @@ from haruka.modules.sql import cust_filters_sql as sql
 from haruka.modules.translations.strings import tld
 
 HANDLER_GROUP = 15
-BASIC_FILTER_STRING = "*Filters in this chat:*\n"
+
 
 
 @run_async
