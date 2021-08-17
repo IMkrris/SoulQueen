@@ -12,7 +12,7 @@ A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
 Can be found on telegram as [SoulQueen](https://t.me/SoulQueenBot) 👸🏻
 
-Alternatively, [find me on telegram](https://t.me/iMvEtRi)!(Keep all support questions in the support chat, where more people can help you) ☺
+Alternatively, [find me on telegram](https://t.me/Im_professorr)!(Keep all support questions in the support chat, where more people can help you) ☺
 
 # Channel
 You can also join our Channel : [TN_bots](https://t.me/TN_Bots) 🤖🤖🤖
