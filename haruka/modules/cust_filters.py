@@ -17,7 +17,8 @@ from haruka.modules.helper_funcs.misc import build_keyboard
 from haruka.modules.helper_funcs.string_handling import split_quotes, button_markdown_parser
 from haruka.modules.sql import cust_filters_sql as sql
 
-from bot.modules.connection import connected
+
+from haruka.modules.translations.strings import tld
 
 HANDLER_GROUP = 15
 BASIC_FILTER_STRING = "*Filters in this chat:*\n"
