@@ -8,7 +8,7 @@ from telegram.error import BadRequest
 from telegram.ext import CommandHandler, MessageHandler, DispatcherHandlerStop, run_async, Filters
 from telegram.utils.helpers import escape_markdown
 
-from bot import dispatcher, LOGGER
+from haruka import dispatcher, LOGGER
 from bot.modules.disable import DisableAbleCommandHandler
 from bot.modules.helper_funcs.chat_status import user_admin
 from bot.modules.helper_funcs.extraction import extract_text
