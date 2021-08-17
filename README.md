@@ -15,13 +15,13 @@ Can be found on telegram as [SoulQueen](https://t.me/SoulQueenBot) 👸🏻
 Alternatively, [find me on telegram](https://t.me/iMvEtRi)!(Keep all support questions in the support chat, where more people can help you) ☺
 
 # Channel
-You can also join our Channel : [Tamil BotZ](https://t.me/TamilBotZ) 🤖🤖🤖
+You can also join our Channel : [TN_bots](https://t.me/TN_Bots) 🤖🤖🤖
 
 # Group
-You can also join our Group : [Tamil Support](https://t.me/TamilSupport) 🤝🏻
+You can also join our Group : [TN Support](https://t.me/tn_support) 🤝🏻
 
 # Report error
-Report your problem along with your name to [this person](https://t.me/iMvEtRi) 👨🏻‍💻
+Report your problem along with your name to [this person](https://t.me/Im_professorr) 👨🏻‍💻
 
 # Credits
 
